@@ -1,14 +1,14 @@
-package CIUD;
+package CRUD;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class CIUD_Test {
+public class CRUD_Test {
 	
 	
 	public static void main(String[] args) {
-		CIUD_Test objTest = new CIUD_Test();
+		CRUD_Test objTest = new CRUD_Test();
 	      objTest.create("1", "Pooja Yadav", "2000-03-02", "2021-12-16");
 		  objTest.create("2", "Sudha Yadav", "2003-01-24", "2021-01-14");
 		  objTest.read("1");
