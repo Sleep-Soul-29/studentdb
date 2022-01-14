@@ -1,4 +1,4 @@
-package CIUD;
+package CRUD;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
