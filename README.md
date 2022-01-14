@@ -1,5 +1,5 @@
 Developing a simple Java program to implement the CRUD  i.e create / read /update / delete students data from Student table.
-This java program should do the following.
+This java program performs following tasks:
 1. Insert student data into Student table
 2. Update student data into Student table
 3. Delete student data from Student table
